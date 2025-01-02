@@ -10,7 +10,8 @@ A simple and interactive Tic-Tac-Toe game built using Python and Pygame. The gam
 - **Smooth UI**: Easy-to-use graphics and gameplay.
 
 ## Screenshots
-![Gameplay screenshot](path_to_your_image.png)
+![Gameplay screenshot]![image](https://github.com/user-attachments/assets/8c5bb4f7-6708-45e5-a98a-846d8d4e749f)
+
 
 ## Requirements
 - Python 3.12 or higher
